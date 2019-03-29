@@ -4,7 +4,7 @@
       <p class="page-permission-cont-title">您暂无权限访问该页面哦！</p>
       <p class="page-permission-cont-info">请联系管理员为您授权</p>
       <div class="page-permission-cont-btn">
-        <art-button size="large" @click="pushTo('/dashboard')">返回首页</art-button>
+        <art-button size="large" @click="pushTo('/index')">返回首页</art-button>
       </div>
     </div>
   </div>
