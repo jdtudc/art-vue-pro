@@ -223,7 +223,7 @@
       a { display: flex;}
       .icon-arrow { display: block; width: 4px; height: 7px; margin-top: 3.5px; margin-left: 8.5px; background-image: url(//storage.360buyimg.com/static-res/tech/jrv/1.0.0/calendar/s-arr.png); transform: rotate(180deg);}
     }
-    .logo { position: absolute; left: 30px; top: 26px;}
+    .logo { position: absolute; left: 0; top: 15px;}
     .other { flex: 1; width: 0; @include rm(); padding-right: 20px;}
     .notice, .avatar { position: relative; width: 42px; height: 42px; margin: auto 0;
       img { width: 100%; height: 100%; border-radius: 50%;}

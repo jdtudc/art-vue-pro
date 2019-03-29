@@ -19,7 +19,7 @@ npm run serve
 cnpm install node-sass sass-loader --save-dev
 ```
 
-### 打包发布
+### Build
 
 ```Bash
 npm run build
