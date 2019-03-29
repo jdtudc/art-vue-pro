@@ -1,29 +1,33 @@
-# art-vue-pro
+<div align=center>
+    <img width="300" title="Art Vue Pro - Suitable for most middle-back projects" alt="Art Vue Pro - Suitable for most middle-back projects" src="public/logo.png"/>
+</div>
 
-## Project setup
-```
-yarn install
-```
+# Introduce
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Suitable for most middle-back projects based on art-vue
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## Git
 
-### Run your tests
-```
-yarn run test
-```
+- [Git Repo](https://github.com/artFE/art-vue-pro)
 
-### Lints and fixes files
-```
-yarn run lint
-```
+## Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Demo](https://vuep.artfe.club)
+
+## Solution
+
+- [CRM](https://github.com/artFE/art-vue-pro/tree/crm/crm)
+- [PMS](https://github.com/artFE/art-vue-pro/tree/pms/pms)
+- more
+
+## Issues
+
+[Issues](https://github.com/artFE/art-vue-pro/issues)
+
+## Contribute
+
+[Contribute](https://github.com/artFE/art-vue-pro/blob/master/CONTRIBUTE.md)
+
+## License
+
+[MIT](https://github.com/artFE/art-vue-pro/blob/master/LICENSE.md)
